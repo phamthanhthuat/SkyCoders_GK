@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quản lý kết quả học tập sinh viên (Python + JSON)
 
 Bài A1 – Xử lý dữ liệu có cấu trúc với JSON
@@ -114,3 +115,6 @@ File dữ liệu `sinh_vien.json` được tạo tự động cùng thư mục v
 ├── images/                # ảnh chụp màn hình demo chức năng
 └── README.md
 ```
+=======
+# Python_GK
+>>>>>>> a323894200b71a62092e92f28ef62fa68c0edd06
