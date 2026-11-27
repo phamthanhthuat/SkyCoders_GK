@@ -1,0 +1,65 @@
+Tep loi
+    {
+        "mssv": "50.01.104.159",
+        "ho_ten": "Phạm Thành Thuật",
+        "mon_hoc": [
+            {
+                "ten_mon": "Toán rời rạc",
+                "diem_tp1": 6.0,
+                "diem_tp2": 8.0,
+                "diem_tong_ket": 7.2
+            },
+            {
+                "ten_mon": "Toán cơ sở",
+                "diem_tp1": 8.0,
+                "diem_tp2": 9.0,
+                "diem_tong_ket": 8.6
+            }
+        ],
+        "gpa": 7.9
+    },
+    {
+        "mssv": "50.01.104.068",
+        "ho_ten": "Phạm Duy Kha",
+        "mon_hoc": [
+            {
+                "ten_mon": "Toán rời rạc",
+                "diem_tp1": 8.0,
+                "diem_tp2": 9.0,
+                "diem_tong_ket": 8.6
+            },
+            {
+                "ten_mon": "Toán cơ sở",
+                "diem_tp1": 8.0,
+                "diem_tp2": 9.0,
+                "diem_tong_ket": 8.6
+            }
+        ],
+        "gpa": 8.6
+    },
+    {
+        "mssv": "50.01.104.104",
+        "ho_ten": "Trần Trọng Nguyễn",
+        "mon_hoc": [
+            {
+                "ten_mon": "Toán rời rạc",
+                "diem_tp1": 8.0,
+                "diem_tp2": 10.0,
+                "diem_tong_ket": 9.2
+            },
+            {
+                "ten_mon": "Toán cơ sở",
+                "diem_tp1": 9.0,
+                "diem_tp2": 8.0,
+                "diem_tong_ket": 8.4
+            },
+            {
+                "ten_mon": "XSTK",
+                "diem_tp1": 3.0,
+                "diem_tp2": 5.0,
+                "diem_tong_ket": 4.2
+            }
+        ],
+        "gpa": 7.27
+    }
+]
